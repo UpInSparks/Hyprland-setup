@@ -4,3 +4,10 @@ Feel free to use them, even though there are better ones out there.
 
 these Configs belong in ~/.config/hypr/
 where the configs are housed.
+hyprland.conf
+hyprlock.conf
+hypridle.conf
+scripts
+
+these belong into ~/.config/
+waybar
