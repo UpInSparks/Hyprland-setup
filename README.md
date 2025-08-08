@@ -14,3 +14,6 @@ these belong into ~/.config/
 
 
 waybar
+cava
+kitty
+fastfetch
